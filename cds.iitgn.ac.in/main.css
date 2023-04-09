@@ -45,7 +45,7 @@
 }
 @media all and (max-width:991px) {
 	.et_pb_image_0{
-		padding: 0px;
+		padding-left: 0px !important;
 	}
 	#mobile_menu{
 		height: 60vh;
