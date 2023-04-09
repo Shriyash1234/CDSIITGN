@@ -47,5 +47,9 @@
 	.et_pb_image_0{
 		padding: 0px;
 	}
+	#mobile_menu{
+		width: 60vh;
+		overflow: scroll;
+	}
 
 }
