@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 Apr 2023 00:37:33 at https://cds.iitgn.ac.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cds.iitgn.ac.in/ -O1 "C:\My Web Sites\CDS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:37:35	Warning: 	Note: due to https://cds.iitgn.ac.in remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+00:38:32	Error: 	"Method Not Allowed" (405) at link https://cds.iitgn.ac.in/xmlrpc.php (from https://cds.iitgn.ac.in/)
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=324
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=324 to https://cds.iitgn.ac.in/about-us/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1291
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1291 to https://cds.iitgn.ac.in/cds-brochure-4/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1310
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1310 to https://cds.iitgn.ac.in/why-to-recruit/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1319
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1319 to https://cds.iitgn.ac.in/what-we-have/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1332
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1332 to https://cds.iitgn.ac.in/how-to-recruit/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=2176
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=2176 to https://cds.iitgn.ac.in/recruitment-policy/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1327
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1327 to https://cds.iitgn.ac.in/demography-of-students/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1271
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1271 to https://cds.iitgn.ac.in/job-announcement-form-jaf/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1282
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1282 to https://cds.iitgn.ac.in/internship-announcement-form/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1323
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1323 to https://cds.iitgn.ac.in/timeline-for-the-process/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=2225
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=2225 to https://cds.iitgn.ac.in/2225-2/
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=2438
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=2438 to https://cds.iitgn.ac.in/2438-2/
+00:42:16	Warning: 	Retry after error -4 (No data (connection closed)) at link cds.iitgn.ac.in/wp-content/uploads/2022/09/A-STAR-Infocomm-Research-Singapore.png (from https://cds.iitgn.ac.in/2438-2/)
+00:42:16	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1572
+00:42:16	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1572 to https://cds.iitgn.ac.in/1572-2/
+00:42:27	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1998
+00:42:27	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1998 to https://cds.iitgn.ac.in/share-job-opportunity-with-alumni/
+00:42:27	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=235
+00:42:27	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=235 to https://cds.iitgn.ac.in/contact-us/
+00:42:27	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1299
+00:42:27	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1299 to https://cds.iitgn.ac.in/faqs/
+00:42:27	Warning: 	Found for cds.iitgn.ac.in/wp-content/uploads/2022/09/A-STAR-Infocomm-Research-Singapore.png
+00:42:27	Warning: 	Redirected link is identical because of 'URL Hack' option: cds.iitgn.ac.in/wp-content/uploads/2022/09/A-STAR-Infocomm-Research-Singapore.png and https://cds.iitgn.ac.in/wp-content/uploads/2022/09/A-STAR-Infocomm-Research-Singapore.png
+00:42:27	Warning: 	Warning moved treated for cds.iitgn.ac.in/wp-content/uploads/2022/09/A-STAR-Infocomm-Research-Singapore.png (real one is https://cds.iitgn.ac.in/wp-content/uploads/2022/09/A-STAR-Infocomm-Research-Singapore.png)
+00:42:27	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=1663
+00:42:27	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=1663 to https://cds.iitgn.ac.in/1663-2/
+00:42:27	Warning: 	Moved Permanently for https://cds.iitgn.ac.in/?p=2211
+00:42:27	Warning: 	File has moved from https://cds.iitgn.ac.in/?p=2211 to https://cds.iitgn.ac.in/2211-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 54 seconds : 305 links scanned, 283 files written (11684845 bytes overall) [11889650 bytes received at 40440 bytes/sec], 8.3 requests per connection
+(1 errors, 41 warnings, 0 messages)

@@ -1,0 +1,51 @@
+.et_pb_row_1.et_pb_row.et_pb_equal_columns,.et_pb_row_2.et_pb_row.et_pb_equal_columns,.et_pb_row_3.et_pb_row.et_pb_equal_columns,.et_pb_row_4.et_pb_row.et_pb_equal_columns,.et_pb_row_5.et_pb_row.et_pb_equal_columns{
+	margin-right: 0px !important;
+	margin-left: 9vw !important;
+}
+@media all and (min-width:991px) {
+	/* Sidebar */
+	#et-top-navigation{
+		overflow-y:scroll;
+		overflow-x:hidden;
+		height:80vh;
+	}
+	#top-menu{
+		padding-right:20px;
+	}
+	#logo{
+		margin-bottom:0px;
+	}
+	#et-top-navigation{
+		padding-top:10px;
+	}
+	#et_top_search{
+		margin-top: 10px !important;
+		margin-bottom:30px;
+	}
+	/* Image */
+	.et_pb_fullwidth_image{
+		object-fit: cover;
+		height: 71vh;
+		display: flex;
+		align-items: center;
+	}
+	.et_pb_section_1{
+		padding: 7.2vh 0;
+		min-height:0px !important;
+	}
+	.et_vertical_nav #main-header .container {
+		width: auto;
+		margin: 0px 30px;
+	}
+	/* demography */
+	.et_pb_image_0{
+		padding: 0px 95px !important;
+	}
+	
+}
+@media all and (max-width:991px) {
+	.et_pb_image_0{
+		padding: 0px;
+	}
+
+}
