@@ -2,6 +2,13 @@
 	margin-right: 0px !important;
 	margin-left: 9vw !important;
 }
+.et_pb_contact_right{
+	display: none !important;
+}
+.et_pb_team_member{
+	min-height: 400px;
+	max-height: 450px;
+}
 @media all and (min-width:991px) {
 	/* Sidebar */
 	#et-top-navigation{
