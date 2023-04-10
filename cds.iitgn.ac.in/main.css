@@ -9,15 +9,30 @@
 	min-height: 400px;
 	max-height: 450px;
 }
+::-webkit-scrollbar {
+	-webkit-appearance: none;
+	}
+	::-webkit-scrollbar {
+	width: 10px;
+	}
+	  
+	::-webkit-scrollbar-track {
+	background: #fff;
+	}
+	  
+	::-webkit-scrollbar-thumb {
+	background: #fff;
+	height:100px;
+	border-radius:5px;
+	}
+	  
 @media all and (min-width:991px) {
 	/* Sidebar */
 	#et-top-navigation{
 		overflow-y:scroll;
 		overflow-x:hidden;
 		height:80vh;
-	}
-	#top-menu{
-		padding-right:20px;
+		padding-top: 0px !important;
 	}
 	#logo{
 		margin-bottom:0px;
@@ -58,5 +73,44 @@
 		height: 60vh;
 		overflow: scroll;
 	}
+
+}
+@media all and (max-width:768px) {
+	#et-main-area{
+		height: 92vh;
+		background-color: #fff;
+	}
+	#main-content{
+		height: 76vh;
+		display: flex;
+		align-items: center;
+		background-color: #fff !important;
+	}
+	#main-footer{
+		position: absolute;
+		bottom: 0px;
+	}
+	#post-324{
+		margin-top: 1000px;
+	}
+	#post-1291{
+		margin-top: 900px;
+	}
+	/* .et_pb_column_4_4{
+		margin-left: 160px;
+		display: flex;
+		flex-direction: column;
+		z-index: 1;
+		width: 50vw !important;
+		height: 83vh;
+		overflow: scroll;
+		padding-top: 50px;
+		font-size: 1rem;
+		line-height: 1.5rem;
+	} */
+	/* #top-header{
+		position: relative;
+		z-index: 5;
+	} */
 
 }
