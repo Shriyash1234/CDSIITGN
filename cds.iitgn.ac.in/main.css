@@ -125,6 +125,39 @@
 		margin-top: 1700px;
 		height: 300vh;
 	}
+	/* about-us */
+	.page-id-324 #et-main-area{  
+		height: 300vh;
+	}
+	/* CDS Brochure */
+	.page-id-1291 #et-main-area{  
+		height: 200vh;
+	}
+	/* Why to recurit */
+	.page-id-1310 #et-main-area{  
+		height: 210vh;
+	}
+	/* Requirement policy */
+	.page-id-2176 #et-main-area{  
+		height: 320vh;
+	}
+	/* Demography of students */
+	.page-id-1327 #et-main-area{  
+		height: 100vh;
+	}
+	.page-id-1327 .et_pb_image_wrap {  
+		margin-top: 50px;
+	}
+
+	.page-id-2225 #et-main-area{  
+		margin-top: 850vh;
+		height: 1000vh;
+	}
+	.page-id-2225 .et_pb_image{
+		display: flex;
+		justify-content: center;
+	}
+	
 	#post-1319{
 		margin-left: 40px;
 		display: flex;
