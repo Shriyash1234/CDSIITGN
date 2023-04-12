@@ -47,7 +47,7 @@
 	/* Image */
 	.et_pb_fullwidth_image{
 		object-fit: cover;
-		height: 71vh;
+		/* height: 71vh; */
 		display: flex;
 		align-items: center;
 	}
@@ -62,6 +62,13 @@
 	/* demography */
 	.et_pb_image_0{
 		padding: 0px 95px !important;
+	}
+	#post-1271,#post-1282,#post-1323,#post-1998{
+		height: 90vh;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 	}
 	
 }
@@ -91,26 +98,49 @@
 		bottom: 0px;
 	}
 	#post-324{
-		margin-top: 1000px;
+		margin-top: 1400px;
+	}
+	#post-1310{
+		margin-top: 900px;
+		font-size: 1rem;
+		line-height: 1.2rem;
 	}
 	#post-1291{
 		margin-top: 900px;
 	}
-	/* .et_pb_column_4_4{
-		margin-left: 160px;
+	#post-2176{
+		margin-top: 1850px;
+		font-size: 1rem;
+		line-height: 1.2rem;
+	}
+	.page-id-1572 #et-main-area{
+		margin-top: 2050px;
+		height: 350vh;
+	}
+	.page-id-1299 #et-main-area{
+		margin-top: 850px;
+		height: 200vh;
+	}
+	.page-id-235 #et-main-area{
+		margin-top: 1700px;
+		height: 300vh;
+	}
+	#post-1319{
+		margin-left: 40px;
 		display: flex;
 		flex-direction: column;
 		z-index: 1;
-		width: 50vw !important;
-		height: 83vh;
+		width: 90vw !important;
+		height: 79vh;
 		overflow: scroll;
-		padding-top: 50px;
+		overflow-y: visible;
+		padding-top: 30px;
 		font-size: 1rem;
 		line-height: 1.5rem;
-	} */
-	/* #top-header{
+	} 
+	#top-header{
 		position: relative;
 		z-index: 5;
-	} */
+	}
 
 }
