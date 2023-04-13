@@ -97,38 +97,44 @@
 		position: absolute;
 		bottom: 0px;
 	}
-	#post-324{
-		margin-top: 1400px;
-	}
-	#post-1310{
-		margin-top: 900px;
-		font-size: 1rem;
-		line-height: 1.2rem;
-	}
 	#post-1291{
 		margin-top: 900px;
 	}
-	#post-2176{
-		margin-top: 1850px;
-		font-size: 1rem;
-		line-height: 1.2rem;
-	}
+	/* For students */
 	.page-id-1572 #et-main-area{
-		margin-top: 2050px;
-		height: 350vh;
+		height: 600vh;
 	}
+	.page-id-1572 #post-1572{
+		position: absolute;
+		top: 12vh;
+	}
+	/* FAQs */
 	.page-id-1299 #et-main-area{
-		margin-top: 850px;
-		height: 200vh;
-	}
-	.page-id-235 #et-main-area{
-		margin-top: 1700px;
 		height: 300vh;
+	}
+	.page-id-1299 #post-1299{
+		position: absolute;
+		top: 8vh;
+	}
+	/* Contact us */
+	.page-id-235 #et-main-area{
+		height: 1100vmin
+	}
+	.page-id-235 #post-235{
+		position: absolute;
+		top: 15vh;
 	}
 	/* about-us */
 	.page-id-324 #et-main-area{  
 		height: 300vh;
 	}
+	.page-id-324 #post-324{  
+		position: absolute;
+    	top: 4vh;
+	}
+	.page-id-324 .et_pb_row_0 .et_pb_column_1_2{
+		height: 0px;
+	} 
 	/* CDS Brochure */
 	.page-id-1291 #et-main-area{  
 		height: 200vh;
@@ -137,13 +143,26 @@
 	.page-id-1310 #et-main-area{  
 		height: 210vh;
 	}
+	.page-id-1310 #post-1310{  
+		position: absolute;
+    	top: 8vh;
+		font-size: 1rem;
+		line-height: 1.2rem;
+	}
 	/* Requirement policy */
 	.page-id-2176 #et-main-area{  
 		height: 320vh;
 	}
+	.page-id-2176 #post-2176{
+		position: absolute;
+		top: 7vh;
+		font-size: 1rem;
+		line-height: 1.2rem;
+	}
 	/* Demography of students */
 	.page-id-1327 #et-main-area{  
 		height: 100vh;
+		padding-top: 4vh;
 	}
 	.page-id-1327 .et_pb_image_wrap {  
 		margin-top: 50px;
@@ -164,7 +183,7 @@
 		flex-direction: column;
 		z-index: 1;
 		width: 90vw !important;
-		height: 79vh;
+		height: 74vh;
 		overflow: scroll;
 		overflow-y: visible;
 		padding-top: 30px;
