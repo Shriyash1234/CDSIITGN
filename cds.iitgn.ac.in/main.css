@@ -167,15 +167,29 @@
 	.page-id-1327 .et_pb_image_wrap {  
 		margin-top: 50px;
 	}
-
+	/* past recuriters */
 	.page-id-2225 #et-main-area{  
 		margin-top: 850vh;
 		height: 1000vh;
+	}
+	.page-id-2225 #post-2225{  
+		position: absolute;
+		top: 7vh;
 	}
 	.page-id-2225 .et_pb_image{
 		display: flex;
 		justify-content: center;
 	}
+	/* Foreign */
+	.page-id-2438 #post-2438{  
+		position: absolute;
+		top: 20vh;
+	}
+	.page-id-2438 .et_pb_image_wrap {  
+		display: flex;
+		justify-content: center;
+	}
+	
 	
 	#post-1319{
 		margin-left: 40px;
